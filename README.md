@@ -3,6 +3,4 @@ ibbyib.github.io
 
 My place to test new things out!
 
-This is just sort of a side project that I'm working on.
-
-I've seen so many other sites like it so I tried to make my own!
+I'll be posting brand new things up here, and you can also check them out on the website by typing in ibbyib.github.io in your URL bar!
