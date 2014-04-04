@@ -1,0 +1,93 @@
+.innerwrapper{
+	font-family:'Karla', sans-serif;
+}
+#first{
+	width:100%;
+	padding-top:305px;
+	padding-bottom:305px;
+	background-color:#3498db;
+	color:#ffffff;
+	font-weight:900;
+	font-size:3em;
+	text-align:center;
+}
+#second{
+	background-color:#f39c12;
+	color:#ffffff;
+	padding-top:6em;
+	padding-bottom:6em;
+	text-align:center;
+	font-weight:600;
+	font-size:2em;
+}
+#paragraph{
+	background-color:#c0392b;
+	padding-top:5em;
+	padding-bottom:5em;
+	font-weight:500;
+	font-size:20px;
+	text-align:center;
+	color:#ffffff;
+	padding-right:3em;
+	padding-left:3em;
+}
+button{
+	border-radius:3px;
+	padding:20px;
+	margin:1em;
+	color:#ffffff;
+	font-size:22px;
+}
+button:hover{
+	cursor:pointer;
+}
+#select{
+	margin-right:26em;
+	margin-left:26em;
+}
+#wat{
+	font-size:3em;
+	background-color:#e67e22;
+	color:#ffffff;
+	text-align:center;
+	padding-top:2em;
+	padding-bottom:2em;
+}
+#e-mail{	
+	background-color:#9b59b6;
+	border:1px solid #8e44ad;
+}
+#e-mail:hover{
+	background-color:#8e44ad;
+}
+#but{
+	font-size:25px;
+	text-align:center;
+}
+#fb{
+	background-color:#3B5998;
+	border:1px solid blue;
+}
+#fb:hover{
+	background-color:#34495e;
+}
+#tw{
+	background-color:#4099FF;
+	border:1px solid #3498db;
+}
+#tw:hover{
+	background-color:#008B8B;
+}
+#g{
+	background-color:#D34836;
+	border:1px solid #e74c3c;
+}
+#g:hover{
+	background-color:#c0392b;
+}
+#buttons{
+	background-color:#2ecc71;
+	padding-top:4em;
+	padding-bottom:4em;
+	color:#ffffff;
+}
