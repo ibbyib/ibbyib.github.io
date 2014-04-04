@@ -4,6 +4,7 @@
   margin:3em;
   width:50%;
   box-shadow:1px 1px 4px 1px rgba(0,0,0,0.3);
+  float:left;
 }
 body{
   font-family:sans-serif;
@@ -16,6 +17,7 @@ body{
   margin:3em;
   width:30%;
   box-shadow:1px 1px 4px 1px rgba(0,0,0,0.3);
+  float:right;
 }
 .card_3{
   border:1px solid #dddddd;
