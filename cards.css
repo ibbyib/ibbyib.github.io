@@ -1,6 +1,33 @@
-.card{
-border:1px solid #dddddd;
-padding:1em;
-margin:3em;
-width:50%;
+.card_1{
+  border:1px solid #dddddd;
+  padding:1em;
+  margin:3em;
+  width:50%;
+  box-shadow:1px 1px 4px 1px rgba(0,0,0,0.3);
+}
+body{
+  font-family:sans-serif;
+  margin:0;
+  padding:0;
+}
+.card_2{
+  border:1px solid #dddddd;
+  padding:1em;
+  margin:3em;
+  width:30%;
+  box-shadow:1px 1px 4px 1px rgba(0,0,0,0.3);
+}
+.card_3{
+  border:1px solid #dddddd;
+  padding:1em;
+  margin:3em;
+  width:70%;
+  box-shadow:1px 1px 4px 1px rgba(0,0,0,0.3);
+}
+.card_4{
+  border:1px solid #dddddd;
+  padding:1em;
+  margin:3em;
+  width:40%;
+  box-shadow:1px 1px 4px 1px rgba(0,0,0,0.3);
 }
