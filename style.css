@@ -42,8 +42,7 @@ button:hover{
 	cursor:pointer;
 }
 #select{
-	margin-right:26em;
-	margin-left:26em;
+	text-align:center;
 }
 #wat{
 	font-size:3em;
