@@ -8,6 +8,7 @@
 	font-family:'Open Sans', sans-serif;
 	padding:5px;
 	font-size:20px;
+	color:#ffffff;
 }
 .nav span.1{
 	margin-right:10px;
@@ -21,10 +22,11 @@
 }
 .nav ul li:hover{
 	background-color:#ffffff;
+	color:#323232;
 }
 .nav ul{
 	display:inline-block;
-	background-color:#ffffaa;
+	background-color:#a8a8a8;
 }
 .title{
 	text-align:center;
