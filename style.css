@@ -59,9 +59,11 @@ html,body{
 }
 .blogpost h2{
 	font-size:12px;
+	color:#a8a8a8;
 }
 .blogpost p{
 	font-size:18px;
+	line-height:26px;
 }
 .blogpost{
 	padding:10px;
