@@ -5,7 +5,7 @@
 .nav ul li{
 	float:left;
 	display:inline-block;
-	font-family:'Open Sans', sans-serif;
+	font-family:'PT Serif', sans-serif;
 	padding:5px;
 	font-size:20px;
 	color:#ffffff;
@@ -53,11 +53,14 @@ html,body{
 	margin-top:10px;
 }
 .blogpost p{
-	font-family:"Open Sans", sans-serif;
+	font-family:"PT Sans", sans-serif;
 }
 .blogpost h1{
 	font-size:25px;
 	color:#323232;
+}
+.blogpost h1:hover{
+	color:#232323;
 }
 .blogpost h2{
 	font-size:12px;
@@ -67,6 +70,12 @@ html,body{
 	font-size:18px;
 	line-height:26px;
 	color:#191919;
+}
+.blogpost a{
+	text-decoration:none;
+}
+.blogpost a:hover{
+	border-bottom:2px solid #323232;
 }
 .blogpost{
 	padding:20px;
