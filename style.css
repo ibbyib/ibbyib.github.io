@@ -38,6 +38,7 @@
 }
 .title h1{
 	font-size:60px;
+	margin-bottom:10px;
 }
 .title h2{
 	font-size:30px;
@@ -57,7 +58,7 @@ html,body{
 }
 .blogpost h1{
 	font-size:25px;
-	color:#323232;
+	color:#b6876e;
 }
 .blogpost h1:hover{
 	color:#232323;
@@ -114,4 +115,48 @@ footer{
 }
 footer p{
 	font-family:'PT Serif', sans-serif;
+}
+.blogpost a{
+	-webkit-transition:0.1s;
+	-moz-transition:0.1s;
+	-ms-transition:0.1s;
+	-o-transition:0.1s;
+	transition:0.1s;
+}
+.post h1, .post h2{
+	font-family:'PT Serif', serif;
+}
+.post p{
+	font-family:'PT Sans', sans-serif;
+	margin-top:20px;
+	margin-bottom:10px;
+	font-size:18px;
+	line-height:25px;
+}
+.post h1{
+	font-size:40px;
+	color:#b6876e;
+}
+.post h2{
+	font-size:19px;
+	margin-top:20px;
+	color:#a8a8a8;
+}
+.post{
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:2em;
+}
+.title a{
+	text-decoration:none;
+}
+.title h1:hover{
+	color:#5a5a5a;
+}
+.post p strong{
+	font-size:22px;
+}
+.post p em{
+	font-style:italic;
 }
