@@ -89,6 +89,10 @@ html,body{
 	margin-right:auto;
 	margin-top:1em;
 }
+.blogpost:hover{
+	border-bottom:4px solid #323232;
+	border-radius:3px;
+}
 #rm{
 	color:#434343;
 }
