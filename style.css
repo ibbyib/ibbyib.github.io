@@ -91,7 +91,7 @@ html,body{
 	-webkit-transition:0.5s;
 }
 .blogpost:hover{
-	border-bottom:4px solid #323232;
+	border-bottom:4px solid #b6876e;
 	border-radius:3px;
 	background-color:#fbf3f2;
 }
