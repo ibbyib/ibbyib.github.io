@@ -89,11 +89,11 @@ html,body{
 	margin-right:auto;
 	margin-top:1em;
 	-webkit-transition:0.5s;
-	background-color:#ECC3BF;
 }
 .blogpost:hover{
 	border-bottom:4px solid #323232;
 	border-radius:3px;
+	background-color:#fbf3f2;
 }
 #rm{
 	color:#434343;
